@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ADW LayoutTest</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Arctic Design Week</string>
+    <string name="nav_header_subtitle">Sampokeskus, Rovaniemi</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Asetukset</string>
+
+    <string name="menu_home">Etusivu</string>
+    <string name="menu_gallery">Tapahtumapaikat</string>
+    <string name="menu_slideshow">Ravintolat</string>
+    <string name="menu_tools">Hotellit</string>
+    <string name="menu_map">Kartta</string>
+    <string name="menu_subtitle">Ota yhteyttä</string>
+    <string name="menu_share">Jaa</string>
+    <string name="menu_send">Lähetä palautetta</string>
+</resources>
